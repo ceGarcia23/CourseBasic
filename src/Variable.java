@@ -19,6 +19,10 @@ public class Variable {
 
         System.out.println(car);
 
+        //Constants
+
+
+
 
 
 
