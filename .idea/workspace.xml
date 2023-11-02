@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7075e0b9-e297-4973-bf96-654c2ea9ab01" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DeclarationOperators.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Variable.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,9 +54,16 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DeclarationOperators">
+  <component name="RunManager" selected="Application.DeclarationOperatorsConstants">
     <configuration name="DeclarationOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DeclarationOperators" />
+      <module name="CourseBasicJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeclarationOperatorsConstants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DeclarationOperatorsConstants" />
       <module name="CourseBasicJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -87,6 +92,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DeclarationOperatorsConstants" />
         <item itemvalue="Application.DeclarationOperators" />
         <item itemvalue="Application.Variable" />
         <item itemvalue="Application.FirstClass" />
@@ -107,7 +113,7 @@
       <workItem from="1698720235636" duration="4782000" />
       <workItem from="1698809738588" duration="2474000" />
       <workItem from="1698894776527" duration="2965000" />
-      <workItem from="1698936923393" duration="3672000" />
+      <workItem from="1698936923393" duration="4767000" />
     </task>
     <servers />
   </component>
