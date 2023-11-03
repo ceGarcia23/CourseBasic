@@ -18,10 +18,6 @@ public class Recasts {
 
         System.out.println("El resultado de " + base + " elevado a " + exponente + " es: " + resul);
 
-
-
-
-
         System.out.println(resultado);
 
     }
