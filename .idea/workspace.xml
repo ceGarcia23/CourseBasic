@@ -54,7 +54,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DeclarationOperatorsConstants">
+  <component name="RunManager" selected="Application.Recasts">
     <configuration name="DeclarationOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DeclarationOperators" />
       <module name="CourseBasicJava" />
@@ -76,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="Recasts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recasts" />
       <module name="CourseBasicJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Recasts" />
         <item itemvalue="Application.DeclarationOperatorsConstants" />
         <item itemvalue="Application.DeclarationOperators" />
         <item itemvalue="Application.Variable" />
         <item itemvalue="Application.FirstClass" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -113,7 +113,7 @@
       <workItem from="1698720235636" duration="4782000" />
       <workItem from="1698809738588" duration="2474000" />
       <workItem from="1698894776527" duration="2965000" />
-      <workItem from="1698936923393" duration="5986000" />
+      <workItem from="1698936923393" duration="7331000" />
     </task>
     <servers />
   </component>
