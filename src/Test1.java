@@ -11,6 +11,5 @@ public class Test1 {
         ArrayList<String> lista = new ArrayList<>();
         Scanner scanner =  new Scanner(System.in);
 
-
     }
 }
