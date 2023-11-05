@@ -23,6 +23,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Conditionals2.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/InputOutputData2.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/NumberEntry.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/StringManipulation2.java" root0="SKIP_INSPECTION" />
@@ -59,9 +60,16 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Conditionals">
+  <component name="RunManager" selected="Application.Conditionals2">
     <configuration name="Conditionals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Conditionals" />
+      <module name="CourseBasicJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Conditionals2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Conditionals2" />
       <module name="CourseBasicJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,20 +96,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringManipulation2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringManipulation2" />
-      <module name="CourseBasicJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Conditionals2" />
         <item itemvalue="Application.Conditionals" />
         <item itemvalue="Application.NumberEntry" />
         <item itemvalue="Application.InputOutputData2" />
         <item itemvalue="Application.InputOutputData" />
-        <item itemvalue="Application.StringManipulation2" />
       </list>
     </recent_temporary>
   </component>
@@ -120,7 +121,7 @@
       <workItem from="1698894776527" duration="2965000" />
       <workItem from="1698936923393" duration="9287000" />
       <workItem from="1699055992122" duration="8085000" />
-      <workItem from="1699112895305" duration="5223000" />
+      <workItem from="1699112895305" duration="7595000" />
     </task>
     <servers />
   </component>
