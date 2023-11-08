@@ -24,6 +24,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/Conditionals2.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/IdealWeight.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/InputOutputData2.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/NumberEntry.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/StringManipulation2.java" root0="SKIP_INSPECTION" />
@@ -61,14 +62,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.WhileConditionals2">
-    <configuration name="Conditionals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Conditionals" />
-      <module name="CourseBasicJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.IdealWeight">
     <configuration name="Conditionals2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Conditionals2" />
       <module name="CourseBasicJava" />
@@ -76,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberEntry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumberEntry" />
+    <configuration name="IdealWeight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IdealWeight" />
       <module name="CourseBasicJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -97,13 +91,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WhileConditionalsDo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WhileConditionalsDo" />
+      <module name="CourseBasicJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IdealWeight" />
+        <item itemvalue="Application.WhileConditionalsDo" />
         <item itemvalue="Application.WhileConditionals2" />
         <item itemvalue="Application.WhileConditionals" />
         <item itemvalue="Application.Conditionals2" />
-        <item itemvalue="Application.Conditionals" />
-        <item itemvalue="Application.NumberEntry" />
       </list>
     </recent_temporary>
   </component>
@@ -124,7 +125,7 @@
       <workItem from="1699055992122" duration="8085000" />
       <workItem from="1699112895305" duration="8378000" />
       <workItem from="1699291103749" duration="5878000" />
-      <workItem from="1699455516839" duration="526000" />
+      <workItem from="1699455516839" duration="3046000" />
     </task>
     <servers />
   </component>
